@@ -1,1 +1,2 @@
-# Blog_devops
+# django_blog_devops
+academic
